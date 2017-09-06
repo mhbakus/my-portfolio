@@ -3,10 +3,10 @@
 welcome on the repo of my personal website on surge feel free to fork it !!
 
 this repo containt 4 files
-..* index.html
-..* about.html
-..* contact.html
-..* style.css
+* index.html
+* about.html
+* contact.html
+* style.css
 
 ## Also for each file wou'll find
 
