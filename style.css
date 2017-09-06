@@ -1,0 +1,105 @@
+body {
+	background: black;
+	color: white;
+	font-family: 'Ubuntu', sans-serif;
+	width: 70%;
+	margin: 0 auto;
+	border: 1px solid;
+	padding: 10px;
+}
+
+.menu {
+	list-style: none;
+	float: right;
+}
+
+.prompt {
+	display: inline-block;
+	padding-top: 20px;
+}
+
+.menu li {
+	display: inline-block;
+	float: left;
+	margin-left: 20px;
+}
+
+.menu li a {
+	text-decoration: none;
+	color: white;
+}
+
+.name {
+	width: 100%;
+	height: 150px;
+	font-family: 'VT323', monospace;
+	font-size: 100px;
+	margin-left: 60px;
+}
+
+.profil {
+	margin-left: 60px;
+}
+
+table {
+	border: 1px dashed;
+}
+
+.first {
+	border-right: 1px dashed;
+}
+
+th {
+	border-bottom: 1px dashed;
+}
+
+input[type=text], input[type=mail] {
+	border: none;
+    border-bottom: 2px solid white;
+    background-color: black;
+    color: white;
+}
+
+label {
+	display: inline-block;
+	width: 100px;
+}
+
+input[type=phone] {
+	border: none;
+    background-color: black;
+    color: white;
+}
+
+input[type=phone]:focus {
+	outline: none;
+}
+
+textarea {
+	resize: none;
+	border: none;
+    background-color: black;
+    color: white;
+    text-align: left;
+    border-bottom: 2px solid white;
+}
+
+input[type=button] {
+	background-color: black;
+    border: 1px solid white;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: right;
+}
+
+ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+ul li {
+	list-style: none;
+}
