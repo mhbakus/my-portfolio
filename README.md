@@ -1,4 +1,4 @@
-#BAKAYOKO MOHAMED
+# BAKAYOKO MOHAMED
 
 welcome on the repo of my personal website on surge feel free to fork it !!
 
