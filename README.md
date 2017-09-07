@@ -20,7 +20,7 @@ this repo containt 4 files
 you can have a preview of my website at [mohamed.surge.sh](http://mohamed.surge.sh)
 
 
-#about me
+# about me
 
 want to know more about me?
 find me on twitter [@mhbakus](https://www.twitter.com/mhbakus)
