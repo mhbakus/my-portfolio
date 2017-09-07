@@ -1,6 +1,6 @@
 # BAKAYOKO MOHAMED
 
-welcome on the repo of my personal website on surge feel free to fork it !!
+welcome on the repo of my personal website on surge feel free to fork it :smiley: :smiley: :smiley: :smiley: !!
 
 this repo containt 4 files
 * index.html
