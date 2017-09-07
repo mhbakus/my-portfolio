@@ -24,6 +24,6 @@ you can have a preview of my website at [mohamed.surge.sh](http://mohamed.surge.
 
 want to know more about me?
 find me on twitter [@mhbakus](https://www.twitter.com/mhbakus)
-[photo of bakayoko mohamed](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAuQAAAAJGE2ZTA1ZDBjLThkZTQtNDY1MC1iOThmLWFlOTQwYzQ1ZmYwNA.jpg)
+![photo of bakayoko mohamed](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAuQAAAAJGE2ZTA1ZDBjLThkZTQtNDY1MC1iOThmLWFlOTQwYzQ1ZmYwNA.jpg)
 
 ### License : GNU GPL
